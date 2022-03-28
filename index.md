@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="./assets/css/style.css" />
   </head>
   <body>
-    <!-- MENU -->
     <header>
       <nav>
         <ul>
@@ -18,8 +17,6 @@
         </ul>
       </nav>
     </header>
-
-    <!-- INTRO -->
     <div class="container">
       <h1>Aleister Crowley</h1>
       <p>(10/12/1875 - 12/01/1947)</p>
@@ -31,8 +28,6 @@
           <img src="./assets/images/aleister1.jpg" alt="" />
         </figure>
       </div>
-
-      <!-- ABOUT -->
       <a id="about-link"></a> <br />
       <div class="about-text">
         <h1>About</h1>
@@ -73,8 +68,6 @@
           biographies and academic studies.
         </p>
       </div>
-
-      <!-- TIMELINE -->
       <a id="timeline-link"></a> <br />
       <div class="timeline">
         <h1>Timeline</h1>
@@ -132,8 +125,6 @@
           </li>
         </ul>
       </div>
-
-      <!-- GALLERY -->
       <a id="gallery-link"></a> <br />
       <div class="images">
         <div class="gallery-title"><h1>Gallery</h1></div>
@@ -161,8 +152,6 @@
         </div>
       </div>
     </main>
-
-    <!-- FOOTER -->
     <footer>
       <p>Page created by
       <a href="https://github.com/ceptex" target="_blank">Caio Teixeira</a>,
